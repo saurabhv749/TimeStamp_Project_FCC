@@ -20,7 +20,7 @@ app.get('/', function (req, res) {
 
 app.get('/api/:date', function (req, res) {
   let date = req.params.date
-  let arr = date.split(/[-:]/)
+  let arr = date.split(/[-:\s]/)
   if (arr.length > 1) {
     if (new Date(date) == 'Invalid Date') {
       res.json({ error: 'Invalid Date' })
