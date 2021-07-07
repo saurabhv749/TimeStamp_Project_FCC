@@ -9,4 +9,4 @@
 
 
 ## API PREVIEW
- ![previeew](https://drive.google.com/uc?id=1p_UiY3o0q8L57OPR6GcJ2U9OcZHiPGYE/view)
+ ![previeew](https://drive.google.com/uc?id=1p_UiY3o0q8L57OPR6GcJ2U9OcZHiPGYE)
